@@ -1,0 +1,15 @@
+{% include before-content.html %}
+<h1>{{ page.title }}</h1>
+<div style="text-align: center">
+{%
+	assign urlLength = page.url | size %}{%
+		
+	for static_file in site.static_files %}{%
+		assign urlPrefix = static_file.path | slice: 0, urlLength %}{%
+		unless urlPrefix != page.url or page.url == static_file.path 
+			%}		<a style="display: inline-block" rel="lightbox[screeny]" href="{{ static_file.path }}"><img style="width: 120px; height: 68px; object-fit: cover;" src="{{ static_file.path }}" alt='{{ static_file.basename | replace: "-", " " | replace: "_", " " }}'></a>
+	{%			endunless %}{%
+	endfor
+%}
+</div>
+{% include after-content.html %}

@@ -1,0 +1,28 @@
+{% include before-content.html %}
+<h1>{{ page.title }}</h1>
+{%
+assign urlLength = page.url | size %}{%
+
+for otherPage in site.pages %}{%
+	assign urlPrefix = otherPage.url | slice: 0, urlLength %}{%
+	unless urlPrefix != page.url or
+			page.url == otherPage.url or
+			ignored contains otherPage.url
+		%}		<h2>{{ otherPage.title }}</a></h2>
+{%		if otherPage.content != null 
+			%}		{{ otherPage.content }}
+{%		endif %}{%
+		assign otherPageUrlLength = otherPage.url | size %}{%
+		for static_file in site.static_files %}{%
+			assign ignoredThumbnailSuffix = ".thumb.jpg" %}{%
+			assign thumbnailSuffixLength = ignoredThumbnailSuffix | size %}{%
+			assign thumbnailSuffixStart = static_file.path | size | minus: thumbnailSuffixLength %}{%
+			assign urlPrefix = static_file.path | slice: 0, otherPageUrlLength %}{%
+			assign urlSuffix = static_file.path | slice: thumbnailSuffixStart, thumbnailSuffixLength %}{%
+			unless urlPrefix != otherPage.url or urlSuffix == ignoredThumbnailSuffix
+				%}		<a style="display: inline-block" rel="lightbox[screeny]" href="{{ static_file.path }}"><img style="width: 120px; height: 68px; object-fit: cover;" src="{{ static_file.path }}.thumb.jpg" alt='{{ static_file.basename | replace: "-", " " | replace: "_", " " }}' onerror="this.src='{{ static_file.path }}'"></a>
+		{%			endunless %}{%
+		endfor %}{%
+	endunless %}{%
+endfor %}{% 
+include after-content.html %}

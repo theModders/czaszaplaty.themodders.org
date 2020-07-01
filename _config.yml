@@ -1,0 +1,36 @@
+title: Czas Zapłaty
+description: Oficjalna strona modyfikacji do gry Gothic
+theme: null
+layouts_dir: ./server/templates
+includes_dir: ./server/templates
+paginate: 4
+paginate_path: "/:num"
+permalink: /:year/:month/:day/:title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      categories: "newsy"
+  -
+    scope:
+      path: "download"
+      type: "pages"
+    values:
+      layout: "redirect"
+  -
+    scope:
+      path: "galeria"
+      type: "pages"
+    values:
+      layout: "gallery-album"
+plugins:
+  - github-pages

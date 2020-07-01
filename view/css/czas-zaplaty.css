@@ -1,0 +1,320 @@
+/* This CSS is available on creative commons licence create by Marcin Lenkowski */
+
+#czas-zaplaty {
+background-color:#000000;
+background-image:url(/view/css/img/bg.gif);
+background-position:top;
+background-repeat:repeat-x;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+margin:0;
+}
+
+a:link, a:visited {
+color:#F9210C;
+text-decoration:none;
+}
+
+a:hover {
+text-decoration:underline;
+}
+
+#header {
+width:982px;
+height:340px;
+margin:auto;
+background-image:url(/view/css/img/header.jpg);
+display:block;
+position:relative;
+}
+#text p.download_links a {
+color:#841712;	
+}
+#header a.download {
+text-decoration:none;
+color:#7E4100;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-weight:lighter;
+padding-top:10px;
+font-size:17px;
+text-align:center;
+position:absolute;
+display:block;
+top:10px;
+left:8px;
+width:200px;
+height:112px;
+text-transform:uppercase;
+}
+
+#header a.download b {
+font-weight:lighter;
+font-variant:small-caps;
+}
+
+#header a.download p.subtitle {
+position: relative; top:-9px;
+margin-top: 2px;
+margin-bottom: -25px;
+font-size:13px;
+color:#720803;
+font-variant:small-caps;
+text-transform:lowercase;
+}
+#header a.download span {
+font-size:120%;
+}
+
+#header a.download span.version {
+color:#000000;
+font-size:38px;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+#header a.download span.up {
+font-size:25px;
+font-family:Tahoma, "Trebuchet MS", Arial, sans-serif;
+}
+
+#header a.logo {
+position:absolute;
+top:55px;
+right:134px;
+display:block;
+height:170px;
+width:262px;
+}
+
+#header a.logo b {
+display:none;
+}
+
+#content {
+width:982px;
+margin:auto;
+background-color:#000000;
+background-image:url(/view/css/img/stone.gif);
+}
+
+#text {
+float:left;
+width:742px;
+}
+#images {
+float:left;
+width:742px;
+text-align:center;
+margin-bottom:25px;
+}
+
+
+#text p, #text h1, #text h2, #text h3, #text h4, #text h5 {
+margin-left:10px;
+margin-right:10px;
+}
+
+#text p {
+margin-left:10px;
+margin-right:10px;
+}
+
+#text h1 {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#BB1101;
+margin-top:0;
+margin-bottom:2px;
+}
+
+#main-menu {
+float:left;
+margin-left:10px;
+padding-left:3px;
+width:202px;
+}
+
+#main-menu a {
+color:#FFFFFF;
+text-decoration:none;
+}
+
+#main-menu a:hover {
+color:#F9210C;
+}
+
+#main-menu a.head {
+display:block;
+width:199px;
+height:45px;
+}
+
+#themodders {
+background-image:url(/view/css/img/menu.gif);
+background-position:top;
+}
+
+#czaszaplaty {
+background-image:url(/view/css/img/menu.gif);
+background-position:bottom;
+}
+
+#main-menu a b {
+display:none;
+}
+
+#main-menu li {
+margin:0;
+margin-left:-15px;
+list-style-image:url(/view/css/img/list.gif);
+line-height:20px;
+font-size:12px;
+}
+
+#footer {
+clear:both;
+width:980px;
+height:144px;
+background-image:url(/view/css/img/footer.jpg);
+position:relative;
+margin-bottom:15px;
+
+}
+
+#footer div#weapons {
+background-image:url(/view/css/img/weapons.gif);
+width:215px;
+height:189px;
+position:absolute;
+top:-190px;
+right:20px;
+}
+
+#link_gs {
+background-color: transparent;
+position:absolute; 
+top: 33px; 
+left: 470px;
+width:118px;
+height:66px;
+display:block;
+}
+#link_tm {
+background-color:transparent;
+position:absolute; top: 38px; left: 588px;
+width:151px;
+height:70px;
+display:block;
+}
+#link_idx {
+background-color:transparent;
+position:absolute; top: 38px; left: 740px;
+width:147px;
+height:70px;
+display:inline-block;
+}
+#link_pb {
+background-color:transparent;
+position:absolute; top: 26px; left: 887px;
+width:85px; height:85px;
+display:inline-block;
+}
+/* Classes */
+
+.post {
+margin-left:10px;
+margin-bottom:20px;
+}
+
+/* Po dodaniu dzi�u nale�y doda� now� informacj�, wed�ug przy�adu icon1, np. icon2 z innym t�em */
+
+.icon1 {
+background-image:url(/view/css/img/icons/1.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.icon2 {
+background-image:url(/view/css/img/icons/2.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.icon3 {
+background-image:url(/view/css/img/icons/3.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.icon4 {
+background-image:url(/view/css/img/icons/4.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.icon5 {
+background-image:url(/view/css/img/icons/5.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.icon1 {
+background-image:url(/view/css/img/icons/1.gif);
+background-repeat:no-repeat;
+padding-left:60px;
+min-height:80px;
+}
+
+.date {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#8A8A8A;
+font-size:10px;
+margin-left:10px;
+padding-bottom:10px;
+background-image:url(/view/css/img/line.gif);
+background-position:bottom left;
+background-repeat:repeat-x;
+}
+
+.sum {
+color:#888;
+font-family:"Courier New", Courier, monospace;
+font-size:13px;
+}
+#text img {
+  display: block;
+  max-width: 350px;
+  margin: 0 auto;
+}
+#text .video {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  width: 600px;
+  height: 350px;
+}
+.pagination {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+#text .banner {
+  display: block;
+  min-width: 100%;
+}
+#text .gallery {
+  text-align: center;
+}
+
+#text .gallery img {
+  display: inline-block;
+  width: 200px;
+  height: 144px;
+  object-fit: cover;
+  margin: 3px;
+}

@@ -1,0 +1,9 @@
+{% include before-content.html %}
+<div class="post">
+    <div class="icon1">
+		<h1>{{ page.title }}</h1>
+     	<div class="date">Napisał: {{ page.author }}, dnia {{ page.time }}</div>
+     	{{ page.content | markdownify }}
+    </div>
+</div>
+{% include after-content.html %}
