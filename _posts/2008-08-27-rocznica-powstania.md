@@ -1,7 +1,7 @@
 ---
 title: Rocznica powstania
 author: Aragorn
-time: "2008-08-27 12:22:01"
+time: "2008-08-27 12:22"
 ---
 
 Myślałem, że nie zdążę, a jednak udało się. Prawie 7 minutowy gameplay przedstawiający nieomawiane dotąd zmiany ujrzał światło dzienne.

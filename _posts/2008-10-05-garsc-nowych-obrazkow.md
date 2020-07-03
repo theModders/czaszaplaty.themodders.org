@@ -1,7 +1,7 @@
 ---
 title: Garść nowych obrazków
 author: Orcwarrior
-time: "2008-10-05 18:48:10"
+time: "2008-10-05 18:48"
 ---
 
 W naszej galerii pojawiły się 3 nowe artworki oraz render. 

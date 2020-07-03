@@ -1,7 +1,7 @@
 ---
 title: Awaria strony i betatesty
 author: The Modders
-time: "2010-03-11 13:14:59"
+time: "2010-03-11 13:14"
 ---
 
 <img src="/images/29awoq8.jpg" class="banner">

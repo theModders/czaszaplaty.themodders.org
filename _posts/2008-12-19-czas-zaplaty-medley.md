@@ -1,7 +1,7 @@
 ---
 title: Czas Zapłaty - Medley
 author: Orcwarrior
-time: "2008-12-19 17:27:19"
+time: "2008-12-19 17:27"
 ---
 
 Wszyscy pamiętamy muzykę z Gothic I, choćby wpadający w ucho główny motyw czy nastrojowy utwór przygrywający w Starym Obozie, jednak wszystko, nawet to co bardzo dobre kiedyś się przejada i nudzi. Wzięlismy to pod uwagę, dlatego w "Czasie Zapłaty" będzie można usłyszeć całkiem nowa scieżkę dźwiękową towarzysząca wszystkim lokacjom, jako że prace są już prawie zakończone prezentujemy jedynie drobną cześć twórczości naszego muzyka - Triple'a w postaci medleya. Medley to inaczej miks kilku utworów muzycznych w wypadku Medleya "Czas Zapłaty" połączonej z prezentacją screenów oczywiście również z tej samej modyfikacji. Nie pozostaje mi nic innego jak zachęcenie do obejrzenia klipu, zachęcam do pobrania wersji w wysokiej jakości, muzyka jest naprawdę tego warta!

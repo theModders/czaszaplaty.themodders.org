@@ -1,7 +1,7 @@
 ---
 title: Dzień screena
 author: Thoro
-time: "2009-07-24 11:11:39"
+time: "2009-07-24 11:11"
 ---
 
 <img src="/images/2qw38g1.jpg" class="banner">

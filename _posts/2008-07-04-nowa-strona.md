@@ -1,7 +1,7 @@
 ---
 title: Nowa strona.
 author: Shergar
-time: "2008-07-05 16:15:34"
+time: "2008-07-05 16:15"
 ---
 
 Serdecznie witamy wszystkich fanów serii Gothic na nowej stronie zespołu modderskiego TheModders. 

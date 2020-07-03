@@ -1,7 +1,7 @@
 ---
 title: Czat z The Modders
 author: Orcwarrior
-time: "2009-07-11 00:23:50"
+time: "2009-07-11 00:23"
 ---
 
 Jeszcze dziś (sobota) o godzinie 20:00 odbędzie się konferencja podczas której każdy będzie mógł zadać nam dowolne pytanie (oczywiście związane z naszą twórczością). Zapraszamy do uczestnictwa tymbardziej że na pewno dużo czasu upłynie nim zdarzy się kolejna taka okazja.

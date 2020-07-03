@@ -1,7 +1,7 @@
 ---
 title: Dzień Screena
 author: Shergar
-time: "2008-07-05 16:45:11"
+time: "2008-07-05 16:45"
 ---
 
 Z inicjatywy administracji forum [themodders.org](https://themodders.org) ruszył "Dzień Screena", który trwać będzie przez siedem dni. 

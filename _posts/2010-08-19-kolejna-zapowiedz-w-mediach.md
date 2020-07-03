@@ -1,7 +1,7 @@
 ---
 title: Kolejna zapowiedź w "mediach"
 author: Thoro
-time: "2010-08-19 22:40:15"
+time: "2010-08-19 22:40"
 ---
 
 Mimo, że od bogatych akcji promocyjnych minęło już wiele czasu to zainteresowanie wokół Czas Zapłaty zdaje się wydawać nadal silne za co bardzo dziękujemy. 

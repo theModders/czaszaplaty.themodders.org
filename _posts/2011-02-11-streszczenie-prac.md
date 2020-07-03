@@ -1,7 +1,7 @@
 ---
 title: Streszenie prac
 author: The Modders
-time: "2011-02-11 15:17:54"
+time: "2011-02-11 15:17"
 ---
 Ostatnimi dniami dzieje się u nas sporo. 
 Wiedzą o tym Ci, którzy regularnie odwiedzają [nasz dział na theModders.org](https://themodders.org/index.php?board=15.0), czy też zaprzyjaźniony portal [Gothic Site](https://gothic.phx.pl). 

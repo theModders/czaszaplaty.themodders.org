@@ -1,7 +1,7 @@
 ---
 title: Świąteczny konkurs - wyniki
 author: Aragorn
-time: "2009-01-13 18:42:07"
+time: "2009-01-13 18:42"
 ---
 
 Stało się! Przebrnąłem przez cztery tematy po brzegi wyładowane waszymi wypocinami i wydobyłem z tony spamu trzech zwycięzców, oto oni:

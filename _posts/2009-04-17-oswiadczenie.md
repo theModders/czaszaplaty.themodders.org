@@ -1,7 +1,7 @@
 ---
 title: Oświadczenie
 author: Shergar
-time: "2009-04-17 22:53:14"
+time: "2009-04-17 22:53"
 ---
 
 Grupa TheModders chciałaby wydać oświadczenie dotyczące zablokowania możliwości komentowania materiałów prezentowanych na serwisie youtube.com. Ale najpierw chcielibyśmy przybliżyć co bardziej wybitnym kreaturom proces tworzenia modyfikacji.

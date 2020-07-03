@@ -1,7 +1,7 @@
 ---
 title: Lista nowości projektu Czas Zapłaty
 author: The Modders
-time: "2009-11-21 20:09:12"
+time: "2009-11-21 20:09"
 ---
 
 <img src="/images/206fmf5.jpg" class="banner">

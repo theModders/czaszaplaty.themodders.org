@@ -1,7 +1,7 @@
 ---
 title: Czas Zapłaty wspierany przez Gothic Site
 author: Orcwarrior
-time: "2008-07-22 01:56:18"
+time: "2008-07-22 01:56"
 ---
 
 Jakiś czas temu nawiązaliśmy współpracę z portalem [Gothic Site](http://gothic.phx.pl). 

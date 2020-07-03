@@ -1,7 +1,7 @@
 ---
 title: Do szopy hej pasterze...
 author: Aragorn
-time: "2008-12-23 12:04:36"
+time: "2008-12-23 12:04"
 ---
 
 Spokojnie, nie będziemy Wam składać życzeń skopiowanych z internetu. Mamy w zanadrzu coś znacznie lepszego. Świąteczną niespodziankę! O co się rozchodzi? Otóż postanowiliśmy wystartować z konkursem, ale nie byle jakim. Na zwycięzców czekać będą (TADAM!) 3 posady beta testerów, a co za tym idzie możliwość zagrania w „Czas Zapłaty” znacznie wcześniej.

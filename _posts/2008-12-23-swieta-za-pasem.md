@@ -1,7 +1,7 @@
 ---
 title: Święta za pasem...
 author: Aragorn
-time: "2008-12-25 13:05:57"
+time: "2008-12-25 13:05"
 ---
 
 Spokojnie, nie będziemy Wam składać życzeń skopiowanych z internetu. 

@@ -1,7 +1,7 @@
 ---
 title: Streszenie prac 2
 author: Thoro
-time: "2011-04-30 18:21:33"
+time: "2011-04-30 18:21"
 ---
 Przerywając niestety już u nas standardowy brak wieści Orcwarror na łamach [forum theModders.org](https://themodders.org/index.php?topic=14112.0) opublikował nowy zestaw screenów wraz z objaśnieniem wprowadzonych zmian i nowości. Materiały do obejrzenia pod poniższym linkiem.
 

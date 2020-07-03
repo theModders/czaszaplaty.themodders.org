@@ -1,7 +1,7 @@
 ---
 title: Nowe materiały
 author: Thoro
-time: "2009-08-28 12:59:32"
+time: "2009-08-28 12:59"
 ---
 
 <img src="/images/11jol15.jpg" class="banner">

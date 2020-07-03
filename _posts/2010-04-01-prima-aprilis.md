@@ -1,7 +1,7 @@
 ---
 title: Prima Aprilis
 author: Thoro
-time: "2010-08-12 20:37:18"
+time: "2010-04-04 20:37"
 ---
 
 Jak już pewnie większość dostrzegła południowy news był jedynie Prima Aprilisowym żartem, naszym zdaniem z resztą bardzo udanym o czym świadczyły liczne i nie rzadko bardzo skrajne reakcje w różnych zakątkach Internetu. Szczególnie pozdrawiamy team The Dragon Masters i wszystkich tych, którzy wyzywali nas od naciągaczy i oszustów zapowiadając że i tak sięgną "po swoje" przez mniej legalne źródła ;). Wypada również podziękować portalowi Gothic Site, który spontanicznie i całkiem nieoczekiwanie dołączył do naszego żartu. Pozostaje sobie jedynie życzyć, że w pełni darmowy (a jakże!) Czas Zapłaty zostanie ukończony przed 1 kwietnia roku 2011 ponieważ i tu w kwestii psikusa poprzeczka została postawiona wysoko ;).

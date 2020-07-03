@@ -1,7 +1,7 @@
 ---
 title: Oświadczenie w sprawie przyszłości projektu
 author: The Modders
-time: "2009-10-02 12:44:12"
+time: "2009-10-02 12:44"
 ---
 
 <img src="/images/2qt8ocm.jpg" class="banner">

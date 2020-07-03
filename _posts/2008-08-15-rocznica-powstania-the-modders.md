@@ -1,7 +1,7 @@
 ---
 title: Rocznica powstania "The Modders"
 author: Aragorn
-time: "2008-08-15 16:49:59"
+time: "2008-08-15 16:49"
 ---
 
 Niebawem przyjdzie nam świętować ważne wydarzenie. 

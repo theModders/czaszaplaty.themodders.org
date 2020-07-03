@@ -1,10 +1,14 @@
 ---
 title: Oficjalny trailer
 author: Shergar
-time: "2008-07-05 17:06:49"
+time: "2008-07-05 17:06"
 ---
 
-Właśnie dzisiaj opublikowany został oficjalny trailer modyfikacji Czas Zapłaty. Już teraz każdy może sprawdzić co czekać będzie graczy wcielających się w postać Ricka. Na pewno godnymi uwagi będą:
+Właśnie dzisiaj opublikowany został oficjalny trailer modyfikacji Czas Zapłaty. 
+
+<iframe class="video" src="https://www.youtube.com/embed/jAJKqc4k-xs" allowfullscreen></iframe>
+
+Już teraz każdy może sprawdzić co czekać będzie graczy wcielających się w postać Ricka. Na pewno godnymi uwagi będą:
 
 - walka dwoma mieczami. Czyli zupełnie nowe animacje postaci, nowe kombosy, a przede wszystkim nowy sposób walki i eksterminacji pomiotu Beliara.
 

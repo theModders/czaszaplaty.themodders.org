@@ -1,7 +1,7 @@
 ---
 title: Czas Zapłaty na półkach
 author: The Modders
-time: "2010-04-01 11:16:40"
+time: "2010-04-01 11:16"
 ---
 
 W końcu mamy zaszczyt ogłosić, że Czas Zapłaty stał się autonomiczną grą na silniku Gothic. Opóźnienia związane z projektem wynikały głównie z rozmów prowadzonych z producentem gier Gothic, głównym wydawcą oraz posiadaczem praw do marki Gothic firmą JoWooD i dystrybutorem lokalnym odpowiedzialnym za wydawnictwo gry w Polsce i krajach Europy - jego nazwę poznacie już wkrótce, wraz z rozpoczęciem oficjalnej kampanii reklamowej. Oprócz profesjonalnego wydania, które powinno zadowolić wszystkich kolekcjonerów przygotowujemy również dubbing z udziałem aktorów dobrze znanych już z serii gier Gothic.

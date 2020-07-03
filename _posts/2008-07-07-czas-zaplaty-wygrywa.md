@@ -1,7 +1,7 @@
 ---
 title: Czas Zapłaty Wygrywa!
 author: Orcwarrior
-time: "2008-07-07 02:55:19"
+time: "2008-07-07 02:55"
 ---
 
 "Dzień Screena" na forum [themodders.org](https://themodders.org) zakończony. 
