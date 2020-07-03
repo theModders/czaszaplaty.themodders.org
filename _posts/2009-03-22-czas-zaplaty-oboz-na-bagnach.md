@@ -2,6 +2,7 @@
 title: Czas Zapłaty - Obóz na Bagnach
 author: Aragorn
 time: "2009-03-22 22:56"
+categories: "media"
 ---
 
 <a href="https://www.youtube.com/watch?v=ZC1MFjK9GKU"><img src="/images/2wn8lxk.jpg" class="banner"></a>

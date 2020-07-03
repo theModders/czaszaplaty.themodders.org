@@ -2,6 +2,7 @@
 title: Dual Fight
 author: Orcwarrior
 time: "2008-07-04 10:15"
+categories: "media"
 ---
 
 Jakiś czas temu ukończyliśmy prace nad walką dwoma ostrzami w modyfikacji "Czas Zapłaty". 

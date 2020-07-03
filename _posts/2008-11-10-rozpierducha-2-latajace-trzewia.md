@@ -2,6 +2,7 @@
 title: "Rozpierducha 2: Latające trzewia"
 author: Aragorn
 time: "2008-11-10 13:26"
+categories: "media"
 ---
 
 Panie i panowie, nadeszła wiekopomna chwila! Nie spodziewaliście się tego, a jednak. Dla nas bowiem nie ma nic niemożliwego. Przedstawiamy wam efekt wieloletniej, wyniszczającej pracy zespołu The Modders. Oto finalna wersja modyfikacji „Czas Zapłaty”!!!

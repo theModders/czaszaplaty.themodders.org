@@ -2,6 +2,7 @@
 title: Oficjalny trailer
 author: Shergar
 time: "2008-07-05 17:06"
+categories: "media"
 ---
 
 Właśnie dzisiaj opublikowany został oficjalny trailer modyfikacji Czas Zapłaty. 
