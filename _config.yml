@@ -43,3 +43,4 @@ collections:
     output: true
 plugins:
   - github-pages
+  - jekyll-feed
