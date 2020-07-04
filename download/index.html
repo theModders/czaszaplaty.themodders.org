@@ -1,0 +1,38 @@
+---
+layout: null
+---
+{% 
+include before-content.html %}{%
+
+assign urlLength = page.url | size %}{%
+
+for otherPage in site.pages %}{%
+	assign urlPrefix1 = otherPage.url | slice: 0, urlLength %}{%
+	assign urlPrefix2 = otherPage.url | slice: 0, 8 %}{%
+	unless urlPrefix1 != page.url or
+			page.url == otherPage.url or
+			otherPage.time == null %}
+		<div class="post">
+			<div class="icon1">
+				<a href="{{ otherPage.url }} "><h1>{{ otherPage.title }}</h1></a>
+				 <div class="date">Napisał: {{ otherPage.author }}, dnia {{ otherPage.time }}</div>
+				 {{ otherPage.content | markdownify }}
+			</div>
+		</div>
+{% 
+	endunless %}{%
+endfor %}
+<style>
+	#text .post a {
+		color: #841712
+	}
+	#text .post li {
+		color: #888;
+		list-style-type: none;
+		margin-left: -2em;
+	}
+</style>
+{% 
+
+include after-content.html 
+%}
