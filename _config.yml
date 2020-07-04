@@ -34,7 +34,7 @@ defaults:
       layout: "redirect"
   -
     scope:
-      path: "galeria"
+      path: "gallery"
       type: "pages"
     values:
       layout: "gallery-album"

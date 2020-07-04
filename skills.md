@@ -28,7 +28,7 @@ Dlaczego nie? Ano dlatego, że aby się go wyuczyć będziemy potrzebowali mistr
 Zapewniam jednak, że warto będzie się pomęczyć.
 </div>
 
-[![duale](/gallery/duale-screenshot.jpg)](/gallery/duale-screenshot.jpg)
+[![duale](/gallery/screenshots/duale-2.jpg)](/gallery/screenshots/duale-2.jpg)
 
 ## Miecz Runiczny
 <div class="right">
@@ -38,7 +38,7 @@ Miecz zdobędziemy dopiero w połowie rozgrywki, jednakże co do jego używania 
 Wystarczy jedynie 30 punktów nauki na wyuczenie się odpowiedniej umiejętności lub znajomość kręgów magii (np. Gdy posiadamy pierwszy krąg magii możemy ładować tylko runy z pierwszego kręgu).
 </div>
 
-[![Miecz Runiczny](/gallery/miecz-runiczny-screenshot.jpg)](/gallery/miecz-runiczny-screenshot.jpg)
+[![Miecz Runiczny](/gallery/screenshots/miecz-runiczny.jpg)](/gallery/screenshots/miecz-runiczny.jpg)
 
 ## Magiczne Szpony
 <div class="right">
@@ -47,7 +47,7 @@ Każdy zadany szponami cios spowoduje u nas częściowy spadek ilości many, a u
 Broń ta doskonale nada się dla magów. Aby nauczyć się władania szponami będziemy musieli posiadać co najmniej 100 punktów many.
 </div>
 
-[![magiczne szpony](/gallery/magiczne-szpony.jpg)](/gallery/magiczne-szpony.jpg)
+[![magiczne szpony](/gallery/renders/magiczne-szpony.jpg)](/gallery/renders/magiczne-szpony.jpg)
 
 ## Uniki
 Warto również wspomnieć o systemie uników. 
@@ -68,7 +68,7 @@ Do każdej z nich będzie potrzebny odpowiedni projekt oraz unikatowe surowce.
 Pojawi się również możliwość przetapiania metali.
 </div>
 
-[![kowalstwo](/gallery/kowalstwo-screenshot.jpg)](/gallery/kowalstwo-screenshot.jpg)
+[![kowalstwo](/gallery/screenshots/kowalstwo.jpg)](/gallery/screenshots/kowalstwo.jpg)
 
 ## Alchemia
 Alchemia to nie tylko ważenie mikstur których w Czasie Zapłaty będzie naprawde dużo. 

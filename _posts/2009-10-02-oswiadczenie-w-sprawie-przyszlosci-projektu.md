@@ -11,4 +11,4 @@ Nic w tej kwestii nie uległo zmianie a my nawet nie myślimy o porzuceniu czy z
 Na potwierdzenie naszych słów przedstawiamy Wam kolejny dwa sceen ukazujący fragment nowej lokacji, którą odwiedzicie grając w Czas Zapłaty. 
 Nowe wieści na temat postępów już wkrótce.
 
-![screenshot](/gallery/gothicmod20090723032824.jpg)
+![screenshot](/gallery/screenshots/jaskinia-2.jpg)

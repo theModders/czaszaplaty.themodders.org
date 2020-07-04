@@ -11,8 +11,8 @@ Render przedstawia skrzynię która prawdopodobnie zastąpi te podstawowe z któ
 Oto wspomniane obrazki:
 
 <div class="gallery" markdown="1">
-[![golem](/gallery/golem-concept-art.jpg)](/gallery/golem-concept-art.jpg)
-[![golem](/gallery/golem-tyl-concept-art.jpg)](/gallery/golem-tyl-concept-art.jpg)
-[![miecz](/gallery/katana.jpg)](/gallery/katana.jpg)
-[![skrzynia](/gallery/skrzynia-render.jpg)](/gallery/skrzynia-render.jpg)
+[![golem](/gallery//concepts/golem.jpg)](/gallery//concepts/golem.jpg)
+[![golem](/gallery//concepts/golem-tyl.jpg)](/gallery//concepts/golem-tyl.jpg)
+[![miecz](/gallery/concepts/katana.jpg)](/gallery/concepts/katana.jpg)
+[![skrzynia](/gallery/renders/skrzynia.jpg)](/gallery/renders/skrzynia.jpg)
 </div>
