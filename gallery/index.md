@@ -1,5 +1,6 @@
 ---
 layout: empty-page
+title: Galeria
 ---
 <p style="text-align:center">
 	<a href="/gallery/screenshots"><img src="/images/screeny.jpg"></a>
