@@ -8,4 +8,4 @@ W końcu mamy zaszczyt ogłosić, że Czas Zapłaty stał się autonomiczną gr�
 
 Rozmowy z Piranha Bytes i JoWood rozpoczęliśmy ponad rok temu. Między innymi dlatego też otrzymaliśmy pełne wsparcie techniczne i dostęp do kodów źródłowych silnika, co zaowocowało licznymi innowacjami oraz znaczną poprawą warstwy wizualnej gry. Początkowo Czas Zapłaty miał stać się oficjalnym rozszerzeniem gry Gothic, jednak z czasem dodatek rozrósł się na tyle, że wszystkie zainteresowane strony postanowiły zmienić statut projektu na autonomiczną grę w realiach pierwszej części Gothica, co stanowiło pionierski ruch na rynku gier wideo. Niedługo zostanie podana także informacja prasowa na oficjalnych stronach wydawnictw, skąd dowiecie się między innymi o dacie światowej premiery oraz sugerowanej cenie detalicznej. Poniżej zamieszczamy wizualizację i wybraną zawartość pudełka gry:
 
-[![edycja kolekcjonerska Czasu Zapłaty](/gallery/1twv3d.jpg)](/gallery/1twv3d.jpg)
+[![edycja kolekcjonerska Czasu Zapłaty](/gallery/renders/edycja-kolekcjonerska.jpg)](/gallery/renders/edycja-kolekcjonerska.jpg)
