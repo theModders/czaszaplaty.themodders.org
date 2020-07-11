@@ -44,3 +44,4 @@ collections:
 plugins:
   - github-pages
   - jekyll-feed
+  - jekyll-sitemap
